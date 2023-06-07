@@ -35,5 +35,5 @@ This functionality should be available only to the user that deployed the contra
 
 
 Notes:  
-1) The contract was compiled in Remix  
+1) The contract was compiled in Remix - Ethereum IDE  
 2) Addresses were created using Ganache - Truffle Suite
