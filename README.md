@@ -35,5 +35,9 @@ This functionality should be available only to the user that deployed the contra
 
 
 Notes:  
+● Uses method overloading for providing two different variations of the same method that facilitates the transfer of funds.  
+● Uses a modifier to restrict access to functionality.  
+● The addresses of the charities are not publicly available.  
+
 1) The contract was compiled in Remix - Ethereum IDE  
 2) Addresses were created using Ganache - Truffle Suite
