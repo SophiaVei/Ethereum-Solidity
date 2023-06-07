@@ -32,3 +32,8 @@ When a donation has been made through the contract, an event transmitting the ad
 of the donor and the amount donated, is emitted.
 It also provides some means to destroy the contract and render it unusable.
 This functionality should be available only to the user that deployed the contract.
+
+
+Notes:  
+1) The contract was compiled in Remix  
+2) Addresses were created using Ganache - Truffle Suite
